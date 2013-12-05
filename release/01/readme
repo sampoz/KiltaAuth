@@ -1,0 +1,3 @@
+Run this with java -jar authtest.jar
+You must have pcscd installed and configured in order for the program to work
+
